@@ -1,4 +1,6 @@
-//answer1
+/*
+answer1
+*/
 CREATE DATABASE QUESTION1;
 USE QUESTION1;
 SHOW TABLES;
