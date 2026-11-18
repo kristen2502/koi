@@ -73,7 +73,7 @@ DESCRIBE SHIPMENT;
 
 -- (ii) Enter at least five tuples for each relation.
 
--- CUSTOMER LOMI
+-- CUSTOMER KING
 INSERT INTO CUSTOMER (CID, CNAME, CITY) VALUES 
     (100, 'A', 'BAN'), 
     (200, 'B', 'MAD'),
